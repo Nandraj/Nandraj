@@ -13,7 +13,7 @@
    <a href="https://twitter.com/NR_MDHL">
     <img align="left" alt="Nandraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="www.linkedin.com/in/nandraj-rathod-ab16b8165">
+  <a href="https://www.linkedin.com/in/nandraj-rathod-ab16b8165">
     <img align="left" alt="Nandraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/Nandraj">
