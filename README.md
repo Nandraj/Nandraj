@@ -46,5 +46,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandraj&theme=dark" />
 </a>
 <a href="https://github.com/Nandraj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandraj&show_icons=true&theme=dracula&line_height=27" alt="Nandraj's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandraj&count_private=true&show_icons=true&theme=dracula&line_height=27" alt="Nandraj's github stats"/>
 </a>
