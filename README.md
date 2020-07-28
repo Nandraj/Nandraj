@@ -9,6 +9,7 @@
 - 💬 Ask me about Python, Flask, SQL, Web or any relevant tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always ready to try something new especially in tech stuff.
+- 🏆 [Certifications](https://github.com/Nandraj/Nandraj.github.io/blob/master/aboutMe.md#certificates)
 - 📫 How to reach me: <br/>
    <a href="https://twitter.com/NR_MDHL">
     <img align="left" alt="Nandraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -39,7 +40,7 @@
   </a>
   <!--<a href="https://www.youtube.com/channel/UCK7WkRvftl2ouoL9Y1IRw-w">
     <img align="left" alt="Nandraj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  </a>-->
+  </a>--> 
 
 <br/>
 
