@@ -22,6 +22,18 @@
   <a href="https://t.me/nandrajrathod">
     <img align="left" alt="Nandraj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
+  <a href="https://medium.com/@nandraj.rathod.009">
+    <img align="left" alt="Nandraj's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a>
+  <a href="https://www.kaggle.com/nandrajrathod">
+    <img align="left" alt="Nandraj's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  </a>
+  <a href="https://www.reddit.com/user/nandrajrathod">
+    <img align="left" alt="Nandraj's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  </a>
+  <a href="https://www.hackerrank.com/nandraj_rathod?hr_r=1">
+    <img align="left" alt="Nandraj's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  </a>
   <a href="https://instagram.com/NR_MDHL">
     <img align="left" alt="Nandraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
