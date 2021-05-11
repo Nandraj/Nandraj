@@ -2,10 +2,10 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandraj&label=Views&color=blue&style=plastic" alt="Nandraj" /> </p>-->
 
-- 🔭 I’m currently working on Python esp. Flask Projects.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on Python esp. Web Projects.
+- 🌱 I’m currently learning Django & React.
 - 👯 I’m looking to collaborate on [Github](https://github.com/Nandraj).
-- 🤔 I’m looking for help with Flutter.
+- 🤔 I’m looking for help with React.
 - 💬 Ask me about Python, Flask, SQL, Web or any relevant tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always ready to try something new especially in tech stuff.
