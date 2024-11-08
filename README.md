@@ -11,10 +11,10 @@
 - ⚡ Fun fact: I am always ready to try something new especially in tech stuff.
 - 🏆 [Certifications](https://github.com/Nandraj/Nandraj.github.io/blob/master/aboutMe.md#certificates)
 - 📫 How to reach me: <br/>
-   <a href="https://twitter.com/NR_MDHL">
+   <a href="https://twitter.com/nandraj_rathod">
     <img align="left" alt="Nandraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/nandraj-rathod-ab16b8165">
+  <a href="https://www.linkedin.com/in/nandraj-rathod">
     <img align="left" alt="Nandraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <!--<a href="https://github.com/Nandraj">
@@ -35,7 +35,7 @@
   <a href="https://www.hackerrank.com/nandraj_rathod?hr_r=1">
     <img align="left" alt="Nandraj's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
   </a>
-  <!--<a href="https://instagram.com/NR_MDHL">
+  <!--<a href="https://instagram.com/nandraj_rathod">
     <img align="left" alt="Nandraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>-->
   <!--<a href="https://www.youtube.com/channel/UCK7WkRvftl2ouoL9Y1IRw-w">
@@ -48,9 +48,10 @@
 <p>
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+  <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+  <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png">
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-  <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 </p>
