@@ -54,15 +54,3 @@
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
   <img height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 </p>
-
-<p>
-   <a href="https://github.com/Nandraj">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandraj&count_private=true&show_icons=true&theme=dracula&line_height=27" alt="Nandraj's github   stats"/>
-   </a>
-</p>
-
-<p>
-   <a href="https://github.com/Nandraj">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandraj&layout=compact&theme=dracula" alt="Nandraj's github lang stats"/>
-   </a>
-</p>
