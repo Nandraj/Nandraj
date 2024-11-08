@@ -12,7 +12,7 @@
 - 🏆 [Certifications](https://github.com/Nandraj/Nandraj.github.io/blob/master/aboutMe.md#certificates)
 - 📫 How to reach me: <br/>
    <a href="https://twitter.com/nandraj_rathod">
-    <img align="left" alt="Nandraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Nandraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/x-dot-org.svg" />
   </a>
   <a href="https://www.linkedin.com/in/nandraj-rathod">
     <img align="left" alt="Nandraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
